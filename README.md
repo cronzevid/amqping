@@ -21,3 +21,5 @@ Usage of ./amqping:
   -tls
     	port is TLS
 ```
+
+To use `amqps://`, one needs to place cert, ca and key to `ssl` folder with corresponding naming.
