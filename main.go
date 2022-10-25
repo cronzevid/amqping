@@ -165,4 +165,4 @@ func main() {
   } else if *actionArg == "send" {
     sendToQueue(ch, queue, msgArg, infArg)
   }
-
+}
